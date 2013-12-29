@@ -1,5 +1,7 @@
 package com.kernburnett.testapplication;
 
+// Test application for Kern Burnett Git repository
+
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
