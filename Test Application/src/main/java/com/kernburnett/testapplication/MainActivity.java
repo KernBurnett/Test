@@ -1,6 +1,7 @@
 package com.kernburnett.testapplication;
 
 // Test application for Kern Burnett Git repository
+//  Checking to see if changes will update
 
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
