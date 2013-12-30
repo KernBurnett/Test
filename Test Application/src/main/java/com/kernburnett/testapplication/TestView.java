@@ -10,6 +10,7 @@ import android.view.View;
 public class TestView extends View
 {
 
+    // This is the constructor for the empty test class
     public TestView(Context context)
     {
         super(context);
