@@ -20,6 +20,7 @@ public class MainActivity extends ActionBarActivity {
 
         TestView testV = new TestView(this);
 
+        // setting the content view to the test view
         setContentView(testV);
 
         if (savedInstanceState == null) {
